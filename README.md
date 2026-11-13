@@ -7,8 +7,8 @@ A music player built with JavaScript as part of my **CodeAlpha Web Development I
 - Play, pause, next and previous controls using JavaScript
 - Shows song title, artist and duration
 - Progress bar and volume control
-- ⭐ Playlist
-- ⭐ Autoplay
+- Playlist
+- Autoplay
 
 ## Technologies Used
 - HTML5
@@ -18,12 +18,12 @@ A music player built with JavaScript as part of my **CodeAlpha Web Development I
 ## How to Run Locally
 1. Clone the repository:
    ```
-   git clone https://github.com/Komal54175/REPO_NAME.git
+   git clone https://github.com/Komal54175/CodeAlpha_MusicPlayer.git
    ```
 2. Open `index.html` in your browser.
 
 ## Author
-**Komal Batool**
+**Komal**
 - GitHub: https://github.com/Komal54175
 
 ## Internship
